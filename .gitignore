@@ -10,13 +10,4 @@ desktop.ini
 # Logs
 *.log
 
-# Temp docs (keep only core site files)
-START_HERE.txt
-LUXURY_*.txt
-LUXURY_*.md
-IMPROVEMENTS.md
-CUSTOMIZATION.md
-DEPLOYMENT.md
-QUICK_START.md
-
 .vercel
