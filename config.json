@@ -1,0 +1,93 @@
+{
+  "personalInfo": {
+    "name": "Kigoro Samson Mwangi",
+    "title": "IT Professional & Software Developer",
+    "email": "kigorosammwangi@gmail.com",
+    "phone": "+254 718 724 046",
+    "location": "Murang'a, Kenya",
+    "shortBio": "Results-driven IT professional with a strong foundation in Business Information Technology, software development, and ICT support."
+  },
+  "social": {
+    "github": "https://github.com/mwangikigoro1",
+    "instagram": "https://www.instagram.com/mwangi_kigoro?igsh=Nmc3YWF4dXB1OWcx&utm_source=qr",
+    "linkedin": "https://linkedin.com/in/kigoro-samson-mwangi",
+    "twitter": "https://twitter.com/kigoro_mwangi"
+  },
+  "design": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#7c3aed",
+    "accentColor": "#06b6d4",
+    "darkText": "#0f172a",
+    "lightText": "#64748b",
+    "backgroundColor": "#f8fafc"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "showProfileImage": true,
+      "showSocialLinks": true
+    },
+    "about": {
+      "enabled": true,
+      "showStats": true
+    },
+    "experience": {
+      "enabled": true,
+      "limit": null
+    },
+    "projects": {
+      "enabled": true,
+      "limit": 6,
+      "source": "github"
+    },
+    "gallery": {
+      "enabled": true,
+      "source": "instagram"
+    },
+    "education": {
+      "enabled": true
+    },
+    "contact": {
+      "enabled": true,
+      "enableForm": true
+    }
+  },
+  "integrations": {
+    "github": {
+      "enabled": true,
+      "username": "mwangikigoro1",
+      "showStars": true,
+      "showForks": false,
+      "excludeForks": true
+    },
+    "instagram": {
+      "enabled": true,
+      "username": "mwangi_kigoro",
+      "embedType": "profile"
+    },
+    "email": {
+      "enabled": true,
+      "service": "formspree",
+      "endpoint": "https://formspree.io/f/xyzgkqpv"
+    }
+  },
+  "seo": {
+    "title": "Kigoro Samson Mwangi | IT Professional & Developer",
+    "description": "Explore my professional portfolio showcasing expertise in IT support, software development, and innovative solutions.",
+    "keywords": ["IT Support", "Software Developer", "Networking", "Business Technology", "Portfolio"],
+    "author": "Kigoro Samson Mwangi",
+    "ogImage": "https://via.placeholder.com/1200x630?text=Portfolio"
+  },
+  "analytics": {
+    "enabled": false,
+    "googleAnalyticsId": "G-XXXXXXXXXX",
+    "hotjarId": null
+  },
+  "features": {
+    "darkMode": false,
+    "keyboardNavigation": true,
+    "smoothScroll": true,
+    "animations": true,
+    "lazyLoading": true
+  }
+}
